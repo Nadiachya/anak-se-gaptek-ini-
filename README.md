@@ -5,3 +5,9 @@ Selamat datang, Hari ini kita akan belajar bagaimana menggunakan Python sebagai 
 - Mampu mengolah data yang sangat besar dengan cepat ASEKK.
 - Mudah untuk mengulang proses analisis (*reproducible*) CEWE CODING NIH BOS.
 - Memiliki *library* yang kuat untuk statistik dan pemetaan SENGGOL DONG.
+
+
+1. pandas
+2. plotlyit
+3. untuk masukin data 
+4. mencari rentang kenyamanan
