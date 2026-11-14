@@ -9,5 +9,5 @@ Selamat datang, Hari ini kita akan belajar bagaimana menggunakan Python sebagai 
 
 1. pandas
 2. plotlyit
-3. untuk masukin data 
+3. untuk memanngil library 
 4. mencari rentang kenyamanan
